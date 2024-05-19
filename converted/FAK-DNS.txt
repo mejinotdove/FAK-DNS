@@ -5295,6 +5295,7 @@ tls://94.140.14.140
 [/58woyou.com/]quic://223.5.5.5 tls://120.53.53.53
 [/58wzb.com/]quic://223.5.5.5 tls://120.53.53.53
 [/58xinrui.com/]quic://223.5.5.5 tls://120.53.53.53
+[/58xinwen.com/]quic://223.5.5.5 tls://120.53.53.53
 [/58xs.la/]quic://223.5.5.5 tls://120.53.53.53
 [/58xuexi.com/]quic://223.5.5.5 tls://120.53.53.53
 [/58yiji.com/]quic://223.5.5.5 tls://120.53.53.53
@@ -5825,7 +5826,6 @@ tls://94.140.14.140
 [/67gu.com/]quic://223.5.5.5 tls://120.53.53.53
 [/67it.com/]quic://223.5.5.5 tls://120.53.53.53
 [/67joy.com/]quic://223.5.5.5 tls://120.53.53.53
-[/67ks.net/]quic://223.5.5.5 tls://120.53.53.53
 [/67mo.com/]quic://223.5.5.5 tls://120.53.53.53
 [/67omd71.com/]quic://223.5.5.5 tls://120.53.53.53
 [/67wanwan.com/]quic://223.5.5.5 tls://120.53.53.53
@@ -7569,7 +7569,6 @@ tls://94.140.14.140
 [/99mk.net/]quic://223.5.5.5 tls://120.53.53.53
 [/99mst.com/]quic://223.5.5.5 tls://120.53.53.53
 [/99music.net/]quic://223.5.5.5 tls://120.53.53.53
-[/99niu.com/]quic://223.5.5.5 tls://120.53.53.53
 [/99pdf.com/]quic://223.5.5.5 tls://120.53.53.53
 [/99ppt.com/]quic://223.5.5.5 tls://120.53.53.53
 [/99pto.com/]quic://223.5.5.5 tls://120.53.53.53
@@ -13089,7 +13088,6 @@ tls://94.140.14.140
 [/btsemi.com/]quic://223.5.5.5 tls://120.53.53.53
 [/btshidai.com/]quic://223.5.5.5 tls://120.53.53.53
 [/btsmth.com/]quic://223.5.5.5 tls://120.53.53.53
-[/btsmth.org/]quic://223.5.5.5 tls://120.53.53.53
 [/btspreads.com/]quic://223.5.5.5 tls://120.53.53.53
 [/btsteel.com/]quic://223.5.5.5 tls://120.53.53.53
 [/btten.com/]quic://223.5.5.5 tls://120.53.53.53
@@ -13317,6 +13315,7 @@ tls://94.140.14.140
 [/bygamesdk.com/]quic://223.5.5.5 tls://120.53.53.53
 [/byguitar.com/]quic://223.5.5.5 tls://120.53.53.53
 [/bygw.net/]quic://223.5.5.5 tls://120.53.53.53
+[/byhh.net/]quic://223.5.5.5 tls://120.53.53.53
 [/byhlds.com/]quic://223.5.5.5 tls://120.53.53.53
 [/byhlds.net/]quic://223.5.5.5 tls://120.53.53.53
 [/byhua.com/]quic://223.5.5.5 tls://120.53.53.53
@@ -24271,6 +24270,7 @@ tls://94.140.14.140
 [/fh77.com/]quic://223.5.5.5 tls://120.53.53.53
 [/fh77.net/]quic://223.5.5.5 tls://120.53.53.53
 [/fh86.com/]quic://223.5.5.5 tls://120.53.53.53
+[/fh888.com/]quic://223.5.5.5 tls://120.53.53.53
 [/fhb971.com/]quic://223.5.5.5 tls://120.53.53.53
 [/fhd001.com/]quic://223.5.5.5 tls://120.53.53.53
 [/fheb-six.com/]quic://223.5.5.5 tls://120.53.53.53
@@ -29571,6 +29571,7 @@ tls://94.140.14.140
 [/hez70.com/]quic://223.5.5.5 tls://120.53.53.53
 [/heze.cc/]quic://223.5.5.5 tls://120.53.53.53
 [/hezebus.com/]quic://223.5.5.5 tls://120.53.53.53
+[/hezegd.com/]quic://223.5.5.5 tls://120.53.53.53
 [/hezeribao.com/]quic://223.5.5.5 tls://120.53.53.53
 [/hezhidongli.com/]quic://223.5.5.5 tls://120.53.53.53
 [/hezi.com/]quic://223.5.5.5 tls://120.53.53.53
@@ -32529,6 +32530,7 @@ tls://94.140.14.140
 [/icnote.com/]quic://223.5.5.5 tls://120.53.53.53
 [/icnpt.com/]quic://223.5.5.5 tls://120.53.53.53
 [/icntv.tv/]quic://223.5.5.5 tls://120.53.53.53
+[/icntvcdn.com/]quic://223.5.5.5 tls://120.53.53.53
 [/icoat.cc/]quic://223.5.5.5 tls://120.53.53.53
 [/icoc.bz/]quic://223.5.5.5 tls://120.53.53.53
 [/icoc.cc/]quic://223.5.5.5 tls://120.53.53.53
@@ -34195,6 +34197,7 @@ tls://94.140.14.140
 [/itto100.com/]quic://223.5.5.5 tls://120.53.53.53
 [/ittribalwo.com/]quic://223.5.5.5 tls://120.53.53.53
 [/ituad.com/]quic://223.5.5.5 tls://120.53.53.53
+[/ituchong.com/]quic://223.5.5.5 tls://120.53.53.53
 [/itugo.com/]quic://223.5.5.5 tls://120.53.53.53
 [/ituite.com/]quic://223.5.5.5 tls://120.53.53.53
 [/itutu.tv/]quic://223.5.5.5 tls://120.53.53.53
@@ -34879,6 +34882,7 @@ tls://94.140.14.140
 [/jgzx.org/]quic://223.5.5.5 tls://120.53.53.53
 [/jgzyw.com/]quic://223.5.5.5 tls://120.53.53.53
 [/jh-dzcl.com/]quic://223.5.5.5 tls://120.53.53.53
+[/jh3737.com/]quic://223.5.5.5 tls://120.53.53.53
 [/jh3j.com/]quic://223.5.5.5 tls://120.53.53.53
 [/jh8k.com/]quic://223.5.5.5 tls://120.53.53.53
 [/jhcb.net/]quic://223.5.5.5 tls://120.53.53.53
@@ -38318,6 +38322,7 @@ tls://94.140.14.140
 [/krones-group.com/]quic://223.5.5.5 tls://120.53.53.53
 [/krones.com/]quic://223.5.5.5 tls://120.53.53.53
 [/krpano.tech/]quic://223.5.5.5 tls://120.53.53.53
+[/krplanking.com/]quic://223.5.5.5 tls://120.53.53.53
 [/krshadow.com/]quic://223.5.5.5 tls://120.53.53.53
 [/krszf.com/]quic://223.5.5.5 tls://120.53.53.53
 [/krzhs.com/]quic://223.5.5.5 tls://120.53.53.53
@@ -39710,6 +39715,7 @@ tls://94.140.14.140
 [/lerye.com/]quic://223.5.5.5 tls://120.53.53.53
 [/leshangzx.com/]quic://223.5.5.5 tls://120.53.53.53
 [/leshanvc.com/]quic://223.5.5.5 tls://120.53.53.53
+[/leshi123.com/]quic://223.5.5.5 tls://120.53.53.53
 [/leshiguang.com/]quic://223.5.5.5 tls://120.53.53.53
 [/leshizyimg.com/]quic://223.5.5.5 tls://120.53.53.53
 [/leshow.com/]quic://223.5.5.5 tls://120.53.53.53
@@ -40517,6 +40523,7 @@ tls://94.140.14.140
 [/liudanking.com/]quic://223.5.5.5 tls://120.53.53.53
 [/liudatxt.com/]quic://223.5.5.5 tls://120.53.53.53
 [/liudatxt.org/]quic://223.5.5.5 tls://120.53.53.53
+[/liudayadan.com/]quic://223.5.5.5 tls://120.53.53.53
 [/liudon.com/]quic://223.5.5.5 tls://120.53.53.53
 [/liudon.org/]quic://223.5.5.5 tls://120.53.53.53
 [/liudu.com/]quic://223.5.5.5 tls://120.53.53.53
@@ -41679,6 +41686,7 @@ tls://94.140.14.140
 [/lycdw.com/]quic://223.5.5.5 tls://120.53.53.53
 [/lycheer.net/]quic://223.5.5.5 tls://120.53.53.53
 [/lyd6688.com/]quic://223.5.5.5 tls://120.53.53.53
+[/lydaas.com/]quic://223.5.5.5 tls://120.53.53.53
 [/lydconn.com/]quic://223.5.5.5 tls://120.53.53.53
 [/lydct.com/]quic://223.5.5.5 tls://120.53.53.53
 [/lydezx.net/]quic://223.5.5.5 tls://120.53.53.53
@@ -42024,6 +42032,7 @@ tls://94.140.14.140
 [/mailizc.com/]quic://223.5.5.5 tls://120.53.53.53
 [/mailpanda.com/]quic://223.5.5.5 tls://120.53.53.53
 [/mailshanguo.com/]quic://223.5.5.5 tls://120.53.53.53
+[/mailyun.net/]quic://223.5.5.5 tls://120.53.53.53
 [/maimaidx.cc/]quic://223.5.5.5 tls://120.53.53.53
 [/maimaimaiw.com/]quic://223.5.5.5 tls://120.53.53.53
 [/maimaiyouhuiquan.com/]quic://223.5.5.5 tls://120.53.53.53
@@ -42629,6 +42638,7 @@ tls://94.140.14.140
 [/meeuapp.net/]quic://223.5.5.5 tls://120.53.53.53
 [/mefcl.com/]quic://223.5.5.5 tls://120.53.53.53
 [/megaemoji.com/]quic://223.5.5.5 tls://120.53.53.53
+[/megagamelog.com/]quic://223.5.5.5 tls://120.53.53.53
 [/megagenchina.com/]quic://223.5.5.5 tls://120.53.53.53
 [/megajoy.com/]quic://223.5.5.5 tls://120.53.53.53
 [/megalithwatch.com/]quic://223.5.5.5 tls://120.53.53.53
@@ -48161,6 +48171,7 @@ tls://94.140.14.140
 [/popqiu.com/]quic://223.5.5.5 tls://120.53.53.53
 [/popsoft.com/]quic://223.5.5.5 tls://120.53.53.53
 [/popumed.com/]quic://223.5.5.5 tls://120.53.53.53
+[/popupgrade.com/]quic://223.5.5.5 tls://120.53.53.53
 [/poputar.com/]quic://223.5.5.5 tls://120.53.53.53
 [/popziti.com/]quic://223.5.5.5 tls://120.53.53.53
 [/porlockz.com/]quic://223.5.5.5 tls://120.53.53.53
@@ -48463,7 +48474,6 @@ tls://94.140.14.140
 [/ptsql.org/]quic://223.5.5.5 tls://120.53.53.53
 [/ptteng.com/]quic://223.5.5.5 tls://120.53.53.53
 [/ptweixin.com/]quic://223.5.5.5 tls://120.53.53.53
-[/ptx4896.com/]quic://223.5.5.5 tls://120.53.53.53
 [/ptxie.com/]quic://223.5.5.5 tls://120.53.53.53
 [/ptxz.com/]quic://223.5.5.5 tls://120.53.53.53
 [/ptyg.com/]quic://223.5.5.5 tls://120.53.53.53
@@ -50531,7 +50541,6 @@ tls://94.140.14.140
 [/ray-joy.com/]quic://223.5.5.5 tls://120.53.53.53
 [/ray8.cc/]quic://223.5.5.5 tls://120.53.53.53
 [/rayalto.pro/]quic://223.5.5.5 tls://120.53.53.53
-[/raychien.site/]quic://223.5.5.5 tls://120.53.53.53
 [/raycom-inv.com/]quic://223.5.5.5 tls://120.53.53.53
 [/raycuslaser.com/]quic://223.5.5.5 tls://120.53.53.53
 [/raydonet.com/]quic://223.5.5.5 tls://120.53.53.53
@@ -58681,6 +58690,7 @@ tls://94.140.14.140
 [/toysir.com/]quic://223.5.5.5 tls://120.53.53.53
 [/toysol.com/]quic://223.5.5.5 tls://120.53.53.53
 [/tozzger.info/]quic://223.5.5.5 tls://120.53.53.53
+[/tpadx.com/]quic://223.5.5.5 tls://120.53.53.53
 [/tpbook.com/]quic://223.5.5.5 tls://120.53.53.53
 [/tpcdnde88de.com/]quic://223.5.5.5 tls://120.53.53.53
 [/tpcmacao.com/]quic://223.5.5.5 tls://120.53.53.53
@@ -61981,6 +61991,7 @@ tls://94.140.14.140
 [/weike.fm/]quic://223.5.5.5 tls://120.53.53.53
 [/weikeimg.com/]quic://223.5.5.5 tls://120.53.53.53
 [/weikejianghu.com/]quic://223.5.5.5 tls://120.53.53.53
+[/weikelink.com/]quic://223.5.5.5 tls://120.53.53.53
 [/weikengtech.com/]quic://223.5.5.5 tls://120.53.53.53
 [/weikeqi-biotech.com/]quic://223.5.5.5 tls://120.53.53.53
 [/weikuw.com/]quic://223.5.5.5 tls://120.53.53.53
@@ -64378,7 +64389,6 @@ tls://94.140.14.140
 [/xcmgmall.com/]quic://223.5.5.5 tls://120.53.53.53
 [/xcmh.cc/]quic://223.5.5.5 tls://120.53.53.53
 [/xcn457.com/]quic://223.5.5.5 tls://120.53.53.53
-[/xcname.com/]quic://223.5.5.5 tls://120.53.53.53
 [/xcnchinese.com/]quic://223.5.5.5 tls://120.53.53.53
 [/xcnic.net/]quic://223.5.5.5 tls://120.53.53.53
 [/xcode.me/]quic://223.5.5.5 tls://120.53.53.53
@@ -65365,7 +65375,6 @@ tls://94.140.14.140
 [/xindemarinenews.com/]quic://223.5.5.5 tls://120.53.53.53
 [/xindetihuiya.com/]quic://223.5.5.5 tls://120.53.53.53
 [/xindexuexi.com/]quic://223.5.5.5 tls://120.53.53.53
-[/xindi02.site/]quic://223.5.5.5 tls://120.53.53.53
 [/xindianti.com/]quic://223.5.5.5 tls://120.53.53.53
 [/xindingwealth.com/]quic://223.5.5.5 tls://120.53.53.53
 [/xindns.com/]quic://223.5.5.5 tls://120.53.53.53
@@ -67077,6 +67086,7 @@ tls://94.140.14.140
 [/yameijie.com/]quic://223.5.5.5 tls://120.53.53.53
 [/yameisj.com/]quic://223.5.5.5 tls://120.53.53.53
 [/yamibo.com/]quic://223.5.5.5 tls://120.53.53.53
+[/yan678.com/]quic://223.5.5.5 tls://120.53.53.53
 [/yanagou.net/]quic://223.5.5.5 tls://120.53.53.53
 [/yananhongyun.com/]quic://223.5.5.5 tls://120.53.53.53
 [/yanbaohui.com/]quic://223.5.5.5 tls://120.53.53.53
@@ -69291,6 +69301,7 @@ tls://94.140.14.140
 [/yslw.com/]quic://223.5.5.5 tls://120.53.53.53
 [/ysmiji.com/]quic://223.5.5.5 tls://120.53.53.53
 [/ysmine.com/]quic://223.5.5.5 tls://120.53.53.53
+[/ysnews.net/]quic://223.5.5.5 tls://120.53.53.53
 [/ysnns.com/]quic://223.5.5.5 tls://120.53.53.53
 [/ysok.net/]quic://223.5.5.5 tls://120.53.53.53
 [/ysoow.com/]quic://223.5.5.5 tls://120.53.53.53
@@ -70355,7 +70366,6 @@ tls://94.140.14.140
 [/z0.cc/]quic://223.5.5.5 tls://120.53.53.53
 [/z01.com/]quic://223.5.5.5 tls://120.53.53.53
 [/z0ukun.com/]quic://223.5.5.5 tls://120.53.53.53
-[/z1233.com/]quic://223.5.5.5 tls://120.53.53.53
 [/z12345.com/]quic://223.5.5.5 tls://120.53.53.53
 [/z17.link/]quic://223.5.5.5 tls://120.53.53.53
 [/z2sci.com/]quic://223.5.5.5 tls://120.53.53.53
