@@ -108,6 +108,7 @@
 [/ml.cdn-apple.com/]quic://223.5.5.5 tls://120.53.53.53
 [/music.apple.com/]quic://223.5.5.5 tls://120.53.53.53
 [/ocsp-lb.apple.com.akadns.net/]quic://223.5.5.5 tls://120.53.53.53
+[/ocsp2-lb.apple.com.akadns.net/]quic://223.5.5.5 tls://120.53.53.53
 [/ocsp.apple.com/]quic://223.5.5.5 tls://120.53.53.53
 [/ocsp2.apple.com/]quic://223.5.5.5 tls://120.53.53.53
 [/oscdn.apple.com/]quic://223.5.5.5 tls://120.53.53.53
