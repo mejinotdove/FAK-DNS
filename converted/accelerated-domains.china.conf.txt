@@ -4417,6 +4417,7 @@
 [/52372.com/]quic://223.5.5.5 tls://120.53.53.53
 [/523touzi.com/]quic://223.5.5.5 tls://120.53.53.53
 [/52419.net/]quic://223.5.5.5 tls://120.53.53.53
+[/524399game.com/]quic://223.5.5.5 tls://120.53.53.53
 [/52488.com/]quic://223.5.5.5 tls://120.53.53.53
 [/525.life/]quic://223.5.5.5 tls://120.53.53.53
 [/5251.net/]quic://223.5.5.5 tls://120.53.53.53
@@ -16406,6 +16407,7 @@
 [/cloud-links.net/]quic://223.5.5.5 tls://120.53.53.53
 [/cloud-neofussvr.sslcs.cdngc.net/]quic://223.5.5.5 tls://120.53.53.53
 [/cloud-rtc.com/]quic://223.5.5.5 tls://120.53.53.53
+[/cloud-rtc.net/]quic://223.5.5.5 tls://120.53.53.53
 [/cloud-scdn-ns.net/]quic://223.5.5.5 tls://120.53.53.53
 [/cloud-scdn-ns.tech/]quic://223.5.5.5 tls://120.53.53.53
 [/cloud-scdn.com/]quic://223.5.5.5 tls://120.53.53.53
@@ -28460,7 +28462,6 @@
 [/haoyouyinxiang.com/]quic://223.5.5.5 tls://120.53.53.53
 [/haoyuanfurniture.com/]quic://223.5.5.5 tls://120.53.53.53
 [/haoyuanxiao.com/]quic://223.5.5.5 tls://120.53.53.53
-[/haoyue.asia/]quic://223.5.5.5 tls://120.53.53.53
 [/haoyue28.com/]quic://223.5.5.5 tls://120.53.53.53
 [/haoyuepu.com/]quic://223.5.5.5 tls://120.53.53.53
 [/haoyun13.com/]quic://223.5.5.5 tls://120.53.53.53
@@ -41806,6 +41807,7 @@
 [/magicdata.io/]quic://223.5.5.5 tls://120.53.53.53
 [/magich5page.com/]quic://223.5.5.5 tls://120.53.53.53
 [/magicleaders.com/]quic://223.5.5.5 tls://120.53.53.53
+[/magicneko.com/]quic://223.5.5.5 tls://120.53.53.53
 [/magicnetmall.com/]quic://223.5.5.5 tls://120.53.53.53
 [/magicspinning.com/]quic://223.5.5.5 tls://120.53.53.53
 [/magicwatchface.com/]quic://223.5.5.5 tls://120.53.53.53
@@ -68484,7 +68486,6 @@
 [/ym01.tech/]quic://223.5.5.5 tls://120.53.53.53
 [/ym1998.com/]quic://223.5.5.5 tls://120.53.53.53
 [/ym23.com/]quic://223.5.5.5 tls://120.53.53.53
-[/ym68.cc/]quic://223.5.5.5 tls://120.53.53.53
 [/ymadly.com/]quic://223.5.5.5 tls://120.53.53.53
 [/ymadx.com/]quic://223.5.5.5 tls://120.53.53.53
 [/ymailcampaign.com/]quic://223.5.5.5 tls://120.53.53.53
