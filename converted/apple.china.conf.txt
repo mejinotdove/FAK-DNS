@@ -27,6 +27,7 @@
 [/cds.apple.com.akadns.net/]h3://dns.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query https://doh-pure.onedns.net/dns-query
 [/cds.apple.com/]h3://dns.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query https://doh-pure.onedns.net/dns-query
 [/cdsassets.apple.com/]h3://dns.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query https://doh-pure.onedns.net/dns-query
+[/certs.apple.com/]h3://dns.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query https://doh-pure.onedns.net/dns-query
 [/cl1-cdn.origin-apple.com.akadns.net/]h3://dns.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query https://doh-pure.onedns.net/dns-query
 [/cl1.apple.com/]h3://dns.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query https://doh-pure.onedns.net/dns-query
 [/cl2-cn.apple.com/]h3://dns.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query https://doh-pure.onedns.net/dns-query
