@@ -103,6 +103,7 @@
 [/itunes-apple.com.akadns.net/]h3://dns.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query https://doh-pure.onedns.net/dns-query
 [/itunes.apple.com/]h3://dns.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query https://doh-pure.onedns.net/dns-query
 [/itunesconnect.apple.com/]h3://dns.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query https://doh-pure.onedns.net/dns-query
+[/mensura.cdn-apple.com/]h3://dns.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query https://doh-pure.onedns.net/dns-query
 [/mesu-cdn.apple.com.akadns.net/]h3://dns.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query https://doh-pure.onedns.net/dns-query
 [/mesu-china.apple.com.akadns.net/]h3://dns.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query https://doh-pure.onedns.net/dns-query
 [/mesu.apple.com/]h3://dns.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query https://doh-pure.onedns.net/dns-query
